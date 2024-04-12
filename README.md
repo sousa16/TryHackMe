@@ -31,10 +31,10 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | [X]      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
 | [X]      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
 | [X]      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
-| []      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
-| []      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
-| []      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
-| []      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
+| [X]      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
+| [-]      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
+| [-]      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
+| [x]      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
 | []      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
 | []      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
 | []      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
