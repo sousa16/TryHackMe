@@ -37,7 +37,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | [x]      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
 | [X]      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
 | [X]      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
-| []      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
+| [X]      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
 | []      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
 | []      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
 | []      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
